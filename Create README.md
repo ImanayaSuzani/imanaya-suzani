@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Imanayá Suzani!
 
-🎓 Estudante de Sistemas da Informação  
-💼 Estagiário de TI na Rede Cidadã  
+💻 Técnico de Suporte N1
+🎓 Estudante de Sistemas da Informação    
 🚀 Em transição para o Desenvolvimento Full Stack
 
 Tenho experiência com suporte técnico (GLPI, AnyDesk), criação de usuários, instalação de sistemas e configuração de equipamentos.  
@@ -11,14 +11,14 @@ Atualmente, estou focado em desenvolvimento web e backend, com certificações e
 - ✅ PHP
 - ✅ Python
 
-E também domino as linguagens fundamentais para o front-end:
+E também desenvolvimento em linguagens fundamentais para o front-end:
 
 - ✅ HTML
 - ✅ CSS
 
 ---
 
-## 🧠 Tecnologias com as quais tenho certificação e domínio
+## 🧠 Tecnologias com as quais tenho certificação em desenvolvimento:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
