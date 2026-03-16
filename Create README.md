@@ -1,36 +1,46 @@
-# 👋 Olá, eu sou o Imanayá Suzani!
+# 👋 Olá, eu sou Imanayá Suzani!
 
+💻 Técnico de Suporte N1  
 🎓 Estudante de Sistemas da Informação  
-💼 Estagiário de TI na Rede Cidadã  
-🚀 Em transição para o Desenvolvimento Full Stack
+📍 Belo Horizonte - MG  
+🚀 Em transição para Desenvolvimento Full Stack
 
-Tenho experiência com suporte técnico (GLPI, AnyDesk), criação de usuários, instalação de sistemas e configuração de equipamentos.  
-Atualmente, estou focado em desenvolvimento web e backend, com certificações em:
+Atuo atualmente como Técnico de Suporte N1 na Rede Cidadã, realizando suporte técnico a usuários, configuração de equipamentos, instalação de sistemas e gestão de chamados.
 
-- ✅ JavaScript
-- ✅ PHP
-- ✅ Python
+Tenho experiência com ferramentas como:
 
-E também domino as linguagens fundamentais para o front-end:
+- GLPI (gestão de chamados)
+- AnyDesk (suporte remoto)
+- Configuração de computadores e softwares
+- Criação e gerenciamento de usuários em sistemas
 
-- ✅ HTML
-- ✅ CSS
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web e backend.
 
 ---
 
-## 🧠 Tecnologias com as quais tenho certificação e domínio
+## 🧠 Tecnologias que estou estudando
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats (opcional)
+## 📂 Projetos
+
+🔹 Verificador de Idade (JavaScript)  
+Projeto desenvolvido durante estudos de lógica de programação utilizando HTML, CSS e JavaScript.
+
+🔹 Projetos de estudo em desenvolvimento web  
+Repositórios contendo exercícios e aplicações simples desenvolvidas durante cursos de programação.
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imanaya-suzani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,5 +50,10 @@ E também domino as linguagens fundamentais para o front-end:
 ---
 
 ## 📫 Contato
-  
+
+Email:  
+imanayavieira@gmail.com
+
+LinkedIn:  
+https://www.linkedin.com/in/imanayá-suzani
 - Email: imanayavieira@gmail.com
